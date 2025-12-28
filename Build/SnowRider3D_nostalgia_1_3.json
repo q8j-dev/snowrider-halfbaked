@@ -1,0 +1,12 @@
+{
+"companyName": "Snow Rider1",
+"productName": "Snow Rider 3D",
+"dataUrl": "SnowRider3D_nostalgia_1_3.data.unityweb",
+"wasmCodeUrl": "SnowRider3D_nostalgia_1_3.wasm.code.unityweb",
+"wasmFrameworkUrl": "SnowRider3D_nostalgia_1_3.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
