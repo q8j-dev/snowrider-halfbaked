@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>1.1.1.1</string>
+					<string>1.0.0.1</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://cloudflare-dns.com/dns-query</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>The payload that configures encrypted DNS settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>DNS Settings</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.ProfileCreator.DE1CC53F-F323-4B1B-B36D-0F56BAD598C0.com.apple.dnsSettings.managed.9C26275B-647B-4279-803D-C00D120342F6</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>9C26275B-647B-4279-803D-C00D120342F6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Cloudflare DNS for secure network connection.</string>
+	<key>PayloadDisplayName</key>
+	<string>1.1.1.1</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.ProfileCreator.DE1CC53F-F323-4B1B-B36D-0F56BAD598C0</string>
+	<key>PayloadOrganization</key>
+	<string>Cloudflare</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>DE1CC53F-F323-4B1B-B36D-0F56BAD598C0</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
